@@ -10,7 +10,7 @@ You can view the live project here:
 
 https://karthik-2376.github.io/Weather-App/
 
-Features
+## Features
 Search weather by city name
 Displays current temperature
 Shows humidity level
